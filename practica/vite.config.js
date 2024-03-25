@@ -1,6 +1,6 @@
 import { defineConfig } from 'vite';
 import laravel from 'laravel-vite-plugin';
-import vue from '@vitejs/plugin-vue';; // Importamos el plugin de Vue.js
+import vue from '@vitejs/plugin-vue'; // Importamos el plugin de Vue.js
 
 export default defineConfig({
     plugins: [
